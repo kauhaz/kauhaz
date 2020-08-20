@@ -1,4 +1,9 @@
 # :star: Welcome To My Github Profile :star:
+Hi My name is Khomsark Kornprakit.
+
+## My Skills :computer:
+ React,NodeJs,Firebase,
+[react]: www.google.com
 
 <!--
 **kauhaz/kauhaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
