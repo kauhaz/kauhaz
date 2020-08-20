@@ -1,5 +1,5 @@
 # :star: Welcome To My Github Profile :star:
-Hi My name is Khomsark Kornprakit.I am studying in Computer Science.
+##### :raised_hand: Hi My name is Khomsark Kornprakit.I am studying in Computer Science.
 
 ## My Skills :computer:
 * React
@@ -9,7 +9,8 @@ Hi My name is Khomsark Kornprakit.I am studying in Computer Science.
 * Kotlin
 * Express.Js
 
-
+![](https://komarev.com/ghpvc/?username=kauhaz&color=green)
+---
 <!--
 **kauhaz/kauhaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
