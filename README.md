@@ -5,6 +5,7 @@ Hi My name is Khomsark Kornprakit.
  React,NodeJs,Firebase,
 [react]: www.google.com
 
+![](https://komarev.com/ghpvc/?username=kauhaz&style=flat-square)
 <!--
 **kauhaz/kauhaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
