@@ -1,5 +1,5 @@
 # :star: Welcome To My Github Profile :star:
-Hi My name is Khomsark Kornprakit.
+Hi My name is Khomsark Kornprakit.I am studying in Computer Science.
 
 ## My Skills :computer:
 * React
