@@ -2,10 +2,14 @@
 Hi My name is Khomsark Kornprakit.
 
 ## My Skills :computer:
- React,NodeJs,Firebase,
-[react]: www.google.com
+* React
+* NodeJs
+* Firebase
+* MongoDB
+* Kotlin
+* Express.Js
 
-![](https://komarev.com/ghpvc/?username=kauhaz&style=flat-square)
+
 <!--
 **kauhaz/kauhaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
