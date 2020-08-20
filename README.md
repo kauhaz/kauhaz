@@ -8,7 +8,7 @@
 * MongoDB
 * Kotlin
 * Express.Js
-
+* flask
 ![](https://komarev.com/ghpvc/?username=kauhaz&color=green)
 ---
 <!--
