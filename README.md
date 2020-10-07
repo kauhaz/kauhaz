@@ -9,6 +9,7 @@
 * Kotlin
 * Express.Js
 * Flask
+* Django(inexpert)
 
 ![](https://komarev.com/ghpvc/?username=kauhaz&color=green)
 ---
