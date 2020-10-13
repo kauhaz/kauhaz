@@ -1,5 +1,5 @@
 # :star: Welcome To My Github Profile :star:
-#### :raised_hand: Hi My name is Khomsark Kornprakit.I am studying in Computer Science.
+#### :raised_hand: Hi My name is Khomsark Kornprakit.My nickname is Huak.I am studying in Computer Science.
 
 ## My Skills :computer:
 * React
