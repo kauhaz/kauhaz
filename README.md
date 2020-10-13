@@ -4,12 +4,12 @@
 ## My Skills :computer:
 * React
 * NodeJs
-* Firebase
+* Firebase (inexpert)
 * MongoDB
 * Kotlin
 * Express.Js
-* Flask
-* Django(inexpert)
+* Flask (inexpert)
+* Django (inexpert)
 
 ![](https://komarev.com/ghpvc/?username=kauhaz&color=green)
 ---
