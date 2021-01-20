@@ -7,7 +7,7 @@
 * MongoDB
 * Kotlin
 * Express.Js
-* flutter
+* Flutter
 * Firebase
 
 ![](https://komarev.com/ghpvc/?username=kauhaz&color=green)
