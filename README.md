@@ -10,7 +10,7 @@
 * Flutter
 * Firebase
 * React Native
-* Flutter(Iearning)
+* Flutter (Learning)
 ![](https://komarev.com/ghpvc/?username=kauhaz&color=green)
 ---
 <!--
