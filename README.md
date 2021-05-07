@@ -7,7 +7,6 @@
 * MongoDB
 * Kotlin
 * Express.Js
-* Flutter
 * Firebase
 * React Native
 * Flutter 
